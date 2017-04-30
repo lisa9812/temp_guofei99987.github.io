@@ -41,3 +41,15 @@ let us try LateX:
 $y=x_1$
 
 $$y=x_1$$
+
+\\[ \frac{1}{n^{2}} \\]
+
+
+{% raw %}
+ $$a^2 + b^2 = c^2$$ --> note that all equations between these tags will not need escaping!
+{% endraw %}
+
+
+{% raw %}
+$$a^2 + b^2 = c^2$$
+{% endraw %}
